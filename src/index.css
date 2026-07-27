@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+/*
+========================================
+JC Portfolio Global Styles
+========================================
+*/
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: #0b0b0b;
+  color: white;
+  font-family: Inter, sans-serif;
+}
