@@ -22,8 +22,8 @@ function Navbar() {
           </li>
 
           <li>
-            <a href="#skills" className="transition hover:text-red-500">
-              Skills
+            <a href="#tech-stack" className="transition hover:text-red-500">
+              Technology Stack
             </a>
           </li>
 

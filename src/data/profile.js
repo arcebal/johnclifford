@@ -25,13 +25,16 @@ const profile = {
     "Fast Learner",
     "Team Player",
     "Public Speaker",
+    "Attentive to Details",
   ],
 
   technologies: [
     "React",
-    "JavaScript",
-    "Tailwind CSS",
+    "Java",
+    "Python",
     "Git",
+    "Django",
+    "AI Automation",
   ],
 };
 
