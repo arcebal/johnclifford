@@ -1,7 +1,9 @@
 import Navbar from "./components/Navbar/Navbar";
+
 import Hero from "./components/Hero/Hero";
 import About from "./components/About/About";
 import TechStack from "./components/TechStack/TechStack";
+import Certifications from "./components/Certifications/Certifications";
 
 function App() {
   return (
@@ -12,6 +14,7 @@ function App() {
         <Hero />
         <About />
         <TechStack />
+        <Certifications />
       </main>
     </>
   );
